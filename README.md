@@ -14,7 +14,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nipun-Lakshan&layout=compact&theme=dark)
-
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nipun-Lakshan&count_private=true&theme=dark&theme=nightowl)
