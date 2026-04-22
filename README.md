@@ -1,5 +1,6 @@
 # Hello, I'm Nipun 👋  
 
+#### :mortar_board:  Studies BSc (Hons) Information Technology and Management at University of Colombo, Faculty of Science
 #### :mortar_board:  Studies at University of Colombo, Faculty of Science
 #### :mortar_board:  Studied at IJSE - Institute of Software Engineering
 #### :mortar_board:  Studied at Ananda College, Colombo 10
